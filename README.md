@@ -22,7 +22,7 @@ I'm a Junior Flutter Developer passionate about building beautiful and performan
 
 Here are some of my favorite Flutter projects:
 
-### [Project Name 1] (https://github.com/Mosesdeff/thetodoapp/blob/main/flutter-todos-master.zip)
+### Project 1 (https://github.com/Mosesdeff/thetodoapp/blob/main/flutter-todos-master.zip)
 - Description: A to-do app with Firebase backend for real-time syncing.
 - Features: Authentication, Firestore integration, clean architecture.
 
