@@ -22,11 +22,7 @@ I'm a Junior Flutter Developer passionate about building beautiful and performan
 
 Here are some of my favorite Flutter projects:
 
-### [Project Name 1](https://github.com/yourusername/project1)
-- Description: A weather app that shows real-time weather data with animations.
-- Features: API integration, location services, beautiful UI.
-
-### [Project Name 2](https://github.com/yourusername/project2)
+### [Project Name 1] (https://github.com/Mosesdeff/thetodoapp/blob/main/flutter-todos-master.zip)
 - Description: A to-do app with Firebase backend for real-time syncing.
 - Features: Authentication, Firestore integration, clean architecture.
 
